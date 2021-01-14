@@ -13,4 +13,6 @@ Please implement employee selection list, where user/admin can select employees 
 - Optional Angular components/libraries - rxjs operators, $locale, SCSS 
 
 
+### Sample Image
 
+![employeelistexample](https://user-images.githubusercontent.com/287525/104555613-2c025200-5664-11eb-90f8-f69409b31018.png)
